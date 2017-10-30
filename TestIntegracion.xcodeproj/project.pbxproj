@@ -14,6 +14,7 @@
 		884F0F181FA7C4B800876226 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 884F0F161FA7C4B800876226 /* LaunchScreen.storyboard */; };
 		884F0F231FA7C4B800876226 /* TestIntegracionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884F0F221FA7C4B800876226 /* TestIntegracionTests.swift */; };
 		884F0F2E1FA7C4B800876226 /* TestIntegracionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884F0F2D1FA7C4B800876226 /* TestIntegracionUITests.swift */; };
+		886EA38C1FA7C97000DEE166 /* testVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886EA38B1FA7C97000DEE166 /* testVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		884F0F291FA7C4B800876226 /* TestIntegracionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestIntegracionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		884F0F2D1FA7C4B800876226 /* TestIntegracionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestIntegracionUITests.swift; sourceTree = "<group>"; };
 		884F0F2F1FA7C4B800876226 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		886EA38B1FA7C97000DEE166 /* testVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				884F0F141FA7C4B800876226 /* Assets.xcassets */,
 				884F0F161FA7C4B800876226 /* LaunchScreen.storyboard */,
 				884F0F191FA7C4B800876226 /* Info.plist */,
+				886EA38B1FA7C97000DEE166 /* testVC.swift */,
 			);
 			path = TestIntegracion;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				884F0F101FA7C4B800876226 /* ViewController.swift in Sources */,
 				884F0F0E1FA7C4B800876226 /* AppDelegate.swift in Sources */,
+				886EA38C1FA7C97000DEE166 /* testVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
